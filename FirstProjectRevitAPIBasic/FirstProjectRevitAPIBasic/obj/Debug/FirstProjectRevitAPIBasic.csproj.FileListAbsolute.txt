@@ -1,0 +1,178 @@
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\FirstProjectRevitAPIBasic.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\FirstProjectRevitAPIBasic.pdb
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPIUI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AdskRcManaged.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPIFoundation.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitDBCoreAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\PersistenceDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\UtilityAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\APIDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\GraphicsAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ElementGroupDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\EssentialsDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\GeomUtilAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\FamilyDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DetailDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ArrayElemsDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\BuildingSystemsDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\HostObjDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\SiteDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\SculptingDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\StructuralDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\InterfaceAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\InterfaceUtilAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RebarDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\MassingDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AssemblyDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DPartDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\NumberingDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\PointCloudAccessAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\StairRampDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AnalysisAppsDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\MaterialDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\IntfATFAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\TextEngineAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\InfrastructureDBAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ATFRevitCoreAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DBManagedServices.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AdWindows.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAddInUtility.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\APIInterop.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\UIFramework.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AddInManager.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitUIAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\BuildingSystemsUIAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DesktopMFCAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\APIUIAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitMFCAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\EssentialsUIAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DetailUIAPI.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\UIFrameworkServices.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Autodesk.UI.Windows.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Autodesk.UI.Themes.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\SSONET.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\CompositionServices.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Autodesk.UI.Windows.WebOnDesktop.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPI.xml
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPIUI.xml
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAddInUtility.xml
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\de-DE\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\en-GB\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\en-US\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\es-ES\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\it-IT\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.csproj.AssemblyReference.cache
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.UI.FormMuti_ElementManager.resources
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.csproj.GenerateResource.cache
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.csproj.CoreCompileInputs.cache
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstPro.4B5F16C9.Up2Date
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.dll
+D:\PROJECT_BASIC_REVIT\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.pdb
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\FirstProjectRevitAPIBasic.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\FirstProjectRevitAPIBasic.pdb
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPIUI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AdskRcManaged.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPIFoundation.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitDBCoreAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\PersistenceDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\UtilityAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\APIDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\GraphicsAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ElementGroupDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\EssentialsDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\GeomUtilAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\FamilyDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DetailDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ArrayElemsDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\BuildingSystemsDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\HostObjDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\SiteDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\SculptingDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\StructuralDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\InterfaceAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\InterfaceUtilAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RebarDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\MassingDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AssemblyDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DPartDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\NumberingDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\PointCloudAccessAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\StairRampDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AnalysisAppsDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\MaterialDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\IntfATFAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\TextEngineAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\InfrastructureDBAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ATFRevitCoreAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DBManagedServices.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AdWindows.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAddInUtility.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\APIInterop.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\UIFramework.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\AddInManager.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitUIAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\BuildingSystemsUIAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DesktopMFCAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\APIUIAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitMFCAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\EssentialsUIAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\DetailUIAPI.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\UIFrameworkServices.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Autodesk.UI.Windows.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Autodesk.UI.Themes.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\SSONET.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\CompositionServices.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Autodesk.UI.Windows.WebOnDesktop.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPI.xml
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAPIUI.xml
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\RevitAddInUtility.xml
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\de-DE\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\en-GB\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\en-US\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\es-ES\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\it-IT\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.csproj.AssemblyReference.cache
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.csproj.GenerateResource.cache
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.csproj.CoreCompileInputs.cache
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstPro.4B5F16C9.Up2Date
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.dll
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.pdb
+D:\PROFILE\cá nhân\TTDN_DEMO_PLUGIN\FirstProjectRevitAPIBasic\FirstProjectRevitAPIBasic\obj\Debug\FirstProjectRevitAPIBasic.UI.FormMutil_ElementManager.resources

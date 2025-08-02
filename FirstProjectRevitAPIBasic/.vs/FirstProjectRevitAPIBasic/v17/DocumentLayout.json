@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|d:\\t\u00E0i li\u1EC7u\\t\u00E0i li\u1EC7u b\u00E1o c\u00E1o ttdn\\ttdn_demo_plugin\\firstprojectrevitapibasic\\firstprojectrevitapibasic\\command\\cmdmutilelementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\command\\cmdmutilelementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\firstprojectrevitapibasic\\utils\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\utils\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\firstprojectrevitapibasic\\command\\editelementcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\command\\editelementcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\firstprojectrevitapibasic\\ui\\formmuti_elementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\ui\\formmuti_elementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\firstprojectrevitapibasic\\ui\\formmuti_elementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\ui\\formmuti_elementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\firstprojectrevitapibasic\\ui\\formmuti_elementmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\ui\\formmuti_elementmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\firstprojectrevitapibasic\\command\\getinfoelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\command\\getinfoelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\firstprojectrevitapibasic\\command\\deleteelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\command\\deleteelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\firstprojectrevitapibasic\\command\\placewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\command\\placewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\firstprojectrevitapibasic\\command\\placecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522B3CD0-6796-4826-9CD1-060A42C24C31}|FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic.csproj|solutionrelative:firstprojectrevitapibasic\\command\\placecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMuti_ElementManager.cs [Design]",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.cs",
+              "ToolTip": "D:\\PROFILE\\c\u00E1 nh\u00E2n\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PROFILE\\c\u00E1 nh\u00E2n\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:08:48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Common.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Utils\\Common.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\Utils\\Common.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Utils\\Common.cs",
+              "RelativeToolTip": "FirstProjectRevitAPIBasic\\Utils\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:15:34.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMuti_ElementManager.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.cs",
+              "RelativeToolTip": "FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAEUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:29:12.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CmdMutilElementManager.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\CmdMutilElementManager.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\Command\\CmdMutilElementManager.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\CmdMutilElementManager.cs",
+              "RelativeToolTip": "FirstProjectRevitAPIBasic\\Command\\CmdMutilElementManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:15:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMuti_ElementManager.Designer.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.Designer.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.Designer.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.Designer.cs",
+              "RelativeToolTip": "FirstProjectRevitAPIBasic\\UI\\FormMuti_ElementManager.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:11:05.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditElementCoordinates.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\EditElementCoordinates.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\Command\\EditElementCoordinates.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\EditElementCoordinates.cs",
+              "RelativeToolTip": "FirstProjectRevitAPIBasic\\Command\\EditElementCoordinates.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:30:52.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteElement.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\DeleteElement.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\Command\\DeleteElement.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\DeleteElement.cs",
+              "RelativeToolTip": "FirstProjectRevitAPIBasic\\Command\\DeleteElement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:32:42.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetInfoElement.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\GetInfoElement.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\Command\\GetInfoElement.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\GetInfoElement.cs",
+              "RelativeToolTip": "FirstProjectRevitAPIBasic\\Command\\GetInfoElement.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:34:11.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlaceColumn.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\PlaceColumn.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\Command\\PlaceColumn.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\PlaceColumn.cs",
+              "RelativeToolTip": "FirstProjectRevitAPIBasic\\Command\\PlaceColumn.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:28:03.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlaceWall.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\PlaceWall.cs",
+              "RelativeDocumentMoniker": "FirstProjectRevitAPIBasic\\Command\\PlaceWall.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\T\u00E0i li\u1EC7u b\u00E1o c\u00E1o TTDN\\TTDN_DEMO_PLUGIN\\FirstProjectRevitAPIBasic\\FirstProjectRevitAPIBasic\\Command\\PlaceWall.cs",
+              "RelativeToolTip": "FirstProjectRevitAPIBasic\\Command\\PlaceWall.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:18:33.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
