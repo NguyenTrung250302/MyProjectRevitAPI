@@ -50,7 +50,10 @@ namespace FirstProjectRevitAPIBasic.UI
         private void btnFilterElement_Click(object sender, EventArgs e)
         {
             dgvElement.Rows.Clear(); // Xóa các dòng cũ trước khi load mới
-
+            int allRowIndex = dgvElement.Rows.Add();
+            dgvElement.Rows[allRowIndex].Cells["ColSelect"].Value = false;
+            dgvElement.Rows[allRowIndex].Cells["ColElements"].Value = "Select all";
+            dgvElement.Rows[allRowIndex].Tag = null; // Không có ElementId
             BuiltInCategory selectedCategory = GetSelectedCategory();
             Level selectedLevel = cbbLevel.SelectedItem as Level;
 
@@ -63,7 +66,30 @@ namespace FirstProjectRevitAPIBasic.UI
                 dgvElement.Rows[rowIndex].Cells["ColElements"].Value = el.Name; // Hiển thị tên Element
                 dgvElement.Rows[rowIndex].Tag = el.Id; // Gán ElementId vào dòng (sử dụng sau)
             }
+            dgvElement.CurrentCellDirtyStateChanged += dgvElement_CurrentCellDirtyStateChanged;
+            dgvElement.CellValueChanged += dgvElement_CellValueChanged;
+
         }
+        private void dgvElement_CurrentCellDirtyStateChanged(object sender, EventArgs e)
+        {
+            if (dgvElement.IsCurrentCellDirty)
+            {
+                dgvElement.CommitEdit(DataGridViewDataErrorContexts.Commit);
+            }
+        }
+        private void dgvElement_CellValueChanged(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.ColumnIndex == dgvElement.Columns["ColSelect"].Index && e.RowIndex == 0)
+            {
+                bool isChecked = Convert.ToBoolean(dgvElement.Rows[0].Cells["ColSelect"].Value);
+
+                for (int i = 1; i < dgvElement.Rows.Count; i++)
+                {
+                    dgvElement.Rows[i].Cells["ColSelect"].Value = isChecked;
+                }
+            }
+        }
+
 
         private void btnDeleteElement_Click(object sender, EventArgs e)
         {
@@ -125,12 +151,15 @@ namespace FirstProjectRevitAPIBasic.UI
 
             foreach (DataGridViewRow row in dgvElement.Rows)
             {
+                if (row.Tag == null) continue;
+
                 bool isChecked = Convert.ToBoolean(row.Cells["ColSelect"].Value);
                 if (isChecked && row.Tag is ElementId id)
                 {
                     selectedIds.Add(id);
                 }
             }
+
 
             if (selectedIds.Any())
             {

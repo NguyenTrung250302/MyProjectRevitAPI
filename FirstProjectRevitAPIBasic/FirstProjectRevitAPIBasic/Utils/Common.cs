@@ -114,13 +114,31 @@ namespace FirstProjectRevitAPIBasic.Utils
         /// <param name="doc"></param>
         /// <param name="elementIds"></param>
         /// <param name="mark"></param>
-        public static void SetMarkForElements(Document doc, List<ElementId> elementIds, string mark)
+        public static void SetMarkForElements(Document doc, List<ElementId> elementIds, string baseMark)
         {
-            if (elementIds == null || elementIds.Count == 0 || string.IsNullOrEmpty(mark)) return;
+            if (elementIds == null || elementIds.Count == 0 || string.IsNullOrEmpty(baseMark)) return;
 
-            using (Transaction trans = new Transaction(doc, "Set Mark and Color for Elements"))
+            using (Transaction trans = new Transaction(doc, "Set Unique Mark and Color for Elements"))
             {
                 trans.Start();
+
+                int suffix = 1;
+                HashSet<string> existingMarks = new HashSet<string>();
+
+                // Lấy toàn bộ Mark hiện tại để tránh trùng
+                var collector = new FilteredElementCollector(doc).WhereElementIsNotElementType();
+                foreach (Element e in collector)
+                {
+                    Parameter markParam = e.LookupParameter("Mark");
+                    if (markParam != null && markParam.StorageType == StorageType.String)
+                    {
+                        string val = markParam.AsString();
+                        if (!string.IsNullOrEmpty(val))
+                        {
+                            existingMarks.Add(val);
+                        }
+                    }
+                }
 
                 foreach (ElementId id in elementIds)
                 {
@@ -130,16 +148,23 @@ namespace FirstProjectRevitAPIBasic.Utils
                         Parameter markParam = el.LookupParameter("Mark");
                         if (markParam != null && !markParam.IsReadOnly)
                         {
-                            markParam.Set(mark);
+                            string uniqueMark;
+                            do
+                            {
+                                uniqueMark = $"{baseMark}_{suffix++}";
+                            }
+                            while (existingMarks.Contains(uniqueMark));
+
+                            markParam.Set(uniqueMark);
+                            existingMarks.Add(uniqueMark);
                         }
 
-                        // Tô màu nếu có View đang mở (đảm bảo là model element)
+                        // Highlight element
                         OverrideGraphicSettings ogs = new OverrideGraphicSettings();
-                        ogs.SetProjectionLineColor(new Color(255, 0, 0)); // Đường viền màu đỏ
-                        ogs.SetSurfaceBackgroundPatternColor(new Color(255, 200, 200)); // Màu nền đỏ nhạt
+                        ogs.SetProjectionLineColor(new Color(255, 0, 0));
+                        ogs.SetSurfaceBackgroundPatternColor(new Color(255, 200, 200));
 
-                        // Kiểm tra có thể override không
-                        if (!doc.ActiveView.IsTemplate) // Không tô nếu là view template
+                        if (!doc.ActiveView.IsTemplate)
                         {
                             doc.ActiveView.SetElementOverrides(id, ogs);
                         }
@@ -149,6 +174,8 @@ namespace FirstProjectRevitAPIBasic.Utils
                 trans.Commit();
             }
         }
+
+
 
     }
 }
